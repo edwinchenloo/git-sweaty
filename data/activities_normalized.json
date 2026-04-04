@@ -48956,5 +48956,44 @@
     "start_date_local": "2026-04-01T17:57:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 914.4,
+    "elevation_gain": 0.0,
+    "id": "17964462787",
+    "moving_time": 1402.0,
+    "name": "Why did the Easter egg hide? It was a little chicken!",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-03T10:47:28Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 1884.3,
+    "elevation_gain": 19.0,
+    "id": "17973455063",
+    "moving_time": 1026.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T06:08:47Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 21316.2,
+    "elevation_gain": 48.0,
+    "id": "17975991540",
+    "moving_time": 8023.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T07:18:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

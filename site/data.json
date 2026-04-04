@@ -33893,6 +33893,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17944630108",
       "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 10,
+      "name": "Why did the Easter egg hide? It was a little chicken!",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/17964462787",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17973455063",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17975991540",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -59040,6 +59067,16 @@
           "distance": 14495.6,
           "elevation_gain": 113.0,
           "moving_time": 4867.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17973455063",
+            "17975991540"
+          ],
+          "count": 2,
+          "distance": 23200.5,
+          "elevation_gain": 67.0,
+          "moving_time": 9049.0
         }
       },
       "Swim": {
@@ -59124,6 +59161,15 @@
           "distance": 6469.0,
           "elevation_gain": 0.0,
           "moving_time": 10332.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17964462787"
+          ],
+          "count": 1,
+          "distance": 914.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1402.0
         }
       },
       "Walk": {
@@ -59157,7 +59203,7 @@
       }
     }
   },
-  "generated_at": "2026-04-03T15:39:32.798761+00:00",
+  "generated_at": "2026-04-04T15:33:10.255857+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
