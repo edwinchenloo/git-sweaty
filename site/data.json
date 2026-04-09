@@ -33956,6 +33956,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18021581189",
       "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 18,
+      "name": "I flake under pressure",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18034943432",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -59131,6 +59140,15 @@
           "distance": 10470.8,
           "elevation_gain": 67.0,
           "moving_time": 3715.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18034943432"
+          ],
+          "count": 1,
+          "distance": 10081.4,
+          "elevation_gain": 0.0,
+          "moving_time": 3228.0
         }
       },
       "Swim": {
@@ -59275,7 +59293,7 @@
       }
     }
   },
-  "generated_at": "2026-04-08T16:16:04.902974+00:00",
+  "generated_at": "2026-04-09T16:19:19.311287+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",

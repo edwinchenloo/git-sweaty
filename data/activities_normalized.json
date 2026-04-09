@@ -49047,5 +49047,18 @@
     "start_date_local": "2026-04-07T20:18:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 10081.4,
+    "elevation_gain": 0.0,
+    "id": "18034943432",
+    "moving_time": 3228.0,
+    "name": "I flake under pressure",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T18:11:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
