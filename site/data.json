@@ -33958,12 +33958,30 @@
       "year": 2026
     },
     {
+      "date": "2026-04-07",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18048782886",
+      "year": 2026
+    },
+    {
       "date": "2026-04-08",
       "hour": 18,
       "name": "I flake under pressure",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18034943432",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 21,
+      "name": "There are 10 types of people in this world. Those who understand binary and those who don\u2019t",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18049172264",
       "year": 2026
     }
   ],
@@ -58686,12 +58704,13 @@
         },
         "2026-04-07": {
           "activity_ids": [
-            "18021581189"
+            "18021581189",
+            "18048782886"
           ],
-          "count": 1,
-          "distance": 0.0,
+          "count": 2,
+          "distance": 32186.9,
           "elevation_gain": 0.0,
-          "moving_time": 3821.0
+          "moving_time": 7631.0
         }
       },
       "Run": {
@@ -59149,6 +59168,15 @@
           "distance": 10081.4,
           "elevation_gain": 0.0,
           "moving_time": 3228.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18049172264"
+          ],
+          "count": 1,
+          "distance": 10460.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3653.0
         }
       },
       "Swim": {
@@ -59293,7 +59321,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T16:19:19.311287+00:00",
+  "generated_at": "2026-04-10T15:54:41.067281+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",

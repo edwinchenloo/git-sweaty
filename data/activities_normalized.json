@@ -49049,6 +49049,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-07",
+    "distance": 32186.9,
+    "elevation_gain": 0.0,
+    "id": "18048782886",
+    "moving_time": 3810.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-07T20:05:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-04-08",
     "distance": 10081.4,
     "elevation_gain": 0.0,
@@ -49058,6 +49071,19 @@
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-04-08T18:11:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 10460.7,
+    "elevation_gain": 0.0,
+    "id": "18049172264",
+    "moving_time": 3653.0,
+    "name": "There are 10 types of people in this world. Those who understand binary and those who don\u2019t",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-09T21:31:54Z",
     "type": "Run",
     "year": 2026
   }
