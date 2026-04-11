@@ -49086,5 +49086,44 @@
     "start_date_local": "2026-04-09T21:31:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 2971.0,
+    "elevation_gain": 0.0,
+    "id": "18059702678",
+    "moving_time": 4907.0,
+    "name": "Holosport AR Fitness Tracker from the Future",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-10T19:20:39Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 3040.4,
+    "elevation_gain": 0.0,
+    "id": "18059705662",
+    "moving_time": 4904.0,
+    "name": "A good programmer is someone who always looks both ways before crossing a one-way street",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-10T17:55:42Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 14148.0,
+    "elevation_gain": 69.0,
+    "id": "18067388014",
+    "moving_time": 5168.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T07:48:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
