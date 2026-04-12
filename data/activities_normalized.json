@@ -49125,5 +49125,18 @@
     "start_date_local": "2026-04-11T07:48:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 21882.3,
+    "elevation_gain": 35.3,
+    "id": "18070724570",
+    "moving_time": 7781.0,
+    "name": "Most Java developers wear glasses because then can't C",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T07:48:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
