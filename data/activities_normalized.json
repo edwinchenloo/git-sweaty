@@ -49151,5 +49151,18 @@
     "start_date_local": "2026-04-12T15:15:34Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 8368.6,
+    "elevation_gain": 0.0,
+    "id": "18099392634",
+    "moving_time": 3042.0,
+    "name": "There are only two difficult problems in computer science: naming things, cache invalidation, and off-by-one errors",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-13T18:26:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
