@@ -49164,5 +49164,31 @@
     "start_date_local": "2026-04-13T18:26:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 8495.0,
+    "elevation_gain": 39.0,
+    "id": "18110771220",
+    "moving_time": 3042.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-13T18:26:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18113459031",
+    "moving_time": 3858.0,
+    "name": "99 little bugs in the code, 99 bugs in the code. Take one down, patch it around, 127 bugs in the code\u2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-14T21:13:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

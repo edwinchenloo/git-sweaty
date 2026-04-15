@@ -34037,6 +34037,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18099392634",
       "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18110771220",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 21,
+      "name": "99 little bugs in the code, 99 bugs in the code. Take one down, patch it around, 127 bugs in the code\u2026",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18113459031",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -58765,6 +58783,15 @@
           "distance": 32186.9,
           "elevation_gain": 0.0,
           "moving_time": 7631.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18113459031"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3858.0
         }
       },
       "Run": {
@@ -59244,12 +59271,13 @@
         },
         "2026-04-13": {
           "activity_ids": [
-            "18099392634"
+            "18099392634",
+            "18110771220"
           ],
-          "count": 1,
-          "distance": 8368.6,
-          "elevation_gain": 0.0,
-          "moving_time": 3042.0
+          "count": 2,
+          "distance": 16863.6,
+          "elevation_gain": 39.0,
+          "moving_time": 6084.0
         }
       },
       "Swim": {
@@ -59413,7 +59441,7 @@
       }
     }
   },
-  "generated_at": "2026-04-14T16:08:46.759774+00:00",
+  "generated_at": "2026-04-15T16:06:19.103914+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
