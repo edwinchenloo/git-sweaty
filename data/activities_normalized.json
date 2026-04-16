@@ -49190,5 +49190,31 @@
     "start_date_local": "2026-04-14T21:13:43Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 6886.9,
+    "elevation_gain": 0.0,
+    "id": "18125910611",
+    "moving_time": 2675.0,
+    "name": "It takes zero programmers to change a light bulb; that's a hardware problem",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-15T18:06:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 1614.9,
+    "elevation_gain": 0.0,
+    "id": "18126234297",
+    "moving_time": 671.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-15T19:35:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
