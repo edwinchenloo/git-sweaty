@@ -49216,5 +49216,18 @@
     "start_date_local": "2026-04-15T19:35:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 10460.7,
+    "elevation_gain": 0.0,
+    "id": "18140318530",
+    "moving_time": 3604.0,
+    "name": "Found a spider inside my PC. It was making a web site.",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-16T21:41:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -34073,6 +34073,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18126234297",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 21,
+      "name": "Found a spider inside my PC. It was making a web site.",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18140318530",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -59306,6 +59315,15 @@
           "distance": 8501.8,
           "elevation_gain": 0.0,
           "moving_time": 3346.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18140318530"
+          ],
+          "count": 1,
+          "distance": 10460.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3604.0
         }
       },
       "Swim": {
@@ -59469,7 +59487,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T16:23:39.047128+00:00",
+  "generated_at": "2026-04-17T16:02:09.750068+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
