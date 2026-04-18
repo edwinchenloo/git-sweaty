@@ -49229,5 +49229,31 @@
     "start_date_local": "2026-04-16T21:41:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 3200.4,
+    "elevation_gain": 0.0,
+    "id": "18151414726",
+    "moving_time": 5117.0,
+    "name": "The latest NVIDIA graphics card is so fast, it can execute an infinite loop in 6 seconds!",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-17T17:58:29Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 3200.0,
+    "elevation_gain": 0.0,
+    "id": "18151425253",
+    "moving_time": 5116.0,
+    "name": "Holosport AR Fitness Tracker from the Future",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-17T19:25:07Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
