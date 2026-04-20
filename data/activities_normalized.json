@@ -49268,5 +49268,18 @@
     "start_date_local": "2026-04-18T07:59:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 4106.9,
+    "elevation_gain": 24.0,
+    "id": "18177930801",
+    "moving_time": 3687.0,
+    "name": "Was supposed to stop and smell the tulips",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-19T15:13:24Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
