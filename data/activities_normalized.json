@@ -49281,5 +49281,18 @@
     "start_date_local": "2026-04-19T15:13:24Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 10477.0,
+    "elevation_gain": 51.0,
+    "id": "18191314461",
+    "moving_time": 3720.0,
+    "name": "Set your wifi password to 2444666668888888. So when someone asks, it's 12345678",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-20T18:19:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

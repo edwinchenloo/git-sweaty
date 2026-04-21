@@ -34118,6 +34118,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18177930801",
       "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 18,
+      "name": "Set your wifi password to 2444666668888888. So when someone asks, it's 12345678",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18191314461",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -59369,6 +59378,15 @@
           "distance": 21112.5,
           "elevation_gain": 124.0,
           "moving_time": 7277.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18191314461"
+          ],
+          "count": 1,
+          "distance": 10477.0,
+          "elevation_gain": 51.0,
+          "moving_time": 3720.0
         }
       },
       "Swim": {
@@ -59551,7 +59569,7 @@
       }
     }
   },
-  "generated_at": "2026-04-20T16:10:29.741028+00:00",
+  "generated_at": "2026-04-21T16:11:08.596180+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
