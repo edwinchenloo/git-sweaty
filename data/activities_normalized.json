@@ -49359,5 +49359,31 @@
     "start_date_local": "2026-04-23T19:17:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 1828.0,
+    "elevation_gain": 0.0,
+    "id": "18244595983",
+    "moving_time": 2838.0,
+    "name": "Holosport AR Fitness Tracker from the Future",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-24T18:06:38Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 1828.8,
+    "elevation_gain": 0.0,
+    "id": "18244603959",
+    "moving_time": 2834.0,
+    "name": "My chatbot paid for online groceries using cache.",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-24T17:18:12Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
