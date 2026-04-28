@@ -49398,5 +49398,18 @@
     "start_date_local": "2026-04-25T08:09:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 11265.4,
+    "elevation_gain": 0.0,
+    "id": "18286845406",
+    "moving_time": 3887.0,
+    "name": "Large language models don't have time to play.  They are always in training.",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-27T20:59:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
