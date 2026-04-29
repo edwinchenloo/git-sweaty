@@ -49411,5 +49411,18 @@
     "start_date_local": "2026-04-27T20:59:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 12908.5,
+    "elevation_gain": 0.0,
+    "id": "18300954612",
+    "moving_time": 3666.0,
+    "name": "ChatGPT to the Terminator: AI'll be back!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-28T21:11:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
