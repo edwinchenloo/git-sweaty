@@ -49437,5 +49437,18 @@
     "start_date_local": "2026-04-29T17:51:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 6437.4,
+    "elevation_gain": 0.0,
+    "id": "18326894295",
+    "moving_time": 2312.0,
+    "name": "What did one AI model reject proposal of the other AI Model? \"You\u2019re overfit!\"",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T21:38:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
