@@ -49450,5 +49450,44 @@
     "start_date_local": "2026-04-30T21:38:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 1920.2,
+    "elevation_gain": 0.0,
+    "id": "18338705798",
+    "moving_time": 2805.0,
+    "name": "My assistant took off to a cave today.  Something about needing data mining...",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-01T16:44:36Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 1920.0,
+    "elevation_gain": 0.0,
+    "id": "18338710228",
+    "moving_time": 2809.0,
+    "name": "Holosport AR Fitness Tracker from the Future",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-01T17:31:37Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 4870.6,
+    "elevation_gain": 9.0,
+    "id": "18346376162",
+    "moving_time": 1201.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T07:01:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
