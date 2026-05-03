@@ -49482,12 +49482,12 @@
     "distance": 4870.6,
     "elevation_gain": 9.0,
     "id": "18346376162",
-    "moving_time": 1201.0,
-    "name": "Morning Run",
-    "raw_activity_type": "Run",
-    "raw_type": "Run",
+    "moving_time": 1215.0,
+    "name": "The One I Made A Difference",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
     "start_date_local": "2026-05-02T07:01:15Z",
-    "type": "Run",
+    "type": "Ride",
     "year": 2026
   }
 ]
