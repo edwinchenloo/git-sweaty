@@ -49489,5 +49489,18 @@
     "start_date_local": "2026-05-02T07:01:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 21205.5,
+    "elevation_gain": 109.0,
+    "id": "18362219415",
+    "moving_time": 8042.0,
+    "name": "The One Grateful Ending",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T07:19:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
