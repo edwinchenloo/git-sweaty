@@ -49502,5 +49502,18 @@
     "start_date_local": "2026-05-03T07:19:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 10484.6,
+    "elevation_gain": 66.0,
+    "id": "18393395673",
+    "moving_time": 3868.0,
+    "name": "We'll have human-level artificial intelligence by 2030. Maybe sooner if the bar keeps dropping.",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T18:53:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
