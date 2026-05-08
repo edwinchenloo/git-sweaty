@@ -49528,5 +49528,31 @@
     "start_date_local": "2026-05-06T18:03:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 4535.3,
+    "elevation_gain": 66.0,
+    "id": "18418981316",
+    "moving_time": 1662.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T17:56:50Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 10689.0,
+    "elevation_gain": 48.0,
+    "id": "18419656129",
+    "moving_time": 4219.0,
+    "name": "Sick DickPond Pounding",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T18:37:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
