@@ -49554,5 +49554,44 @@
     "start_date_local": "2026-05-07T18:37:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 2514.0,
+    "elevation_gain": 0.0,
+    "id": "18431798629",
+    "moving_time": 3902.0,
+    "name": "Holosport AR Fitness Tracker from the Future",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-08T19:28:06Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 2514.6,
+    "elevation_gain": 0.0,
+    "id": "18431813439",
+    "moving_time": 3904.0,
+    "name": "What does AI think is a joke? Humans",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-08T18:22:52Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 9993.4,
+    "elevation_gain": 35.0,
+    "id": "18438809340",
+    "moving_time": 3301.0,
+    "name": "Cornerstone Lakes WU + parkrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-09T07:04:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
