@@ -34334,6 +34334,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18438809340",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 12,
+      "name": "Chicago Botanic Garden Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18457245467",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -59931,11 +59940,20 @@
           "distance": 4106.9,
           "elevation_gain": 24.0,
           "moving_time": 3687.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18457245467"
+          ],
+          "count": 1,
+          "distance": 4073.0,
+          "elevation_gain": 35.0,
+          "moving_time": 5614.0
         }
       }
     }
   },
-  "generated_at": "2026-05-10T15:55:26.853825+00:00",
+  "generated_at": "2026-05-11T17:25:36.946930+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
