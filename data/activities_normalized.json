@@ -49710,5 +49710,31 @@
     "start_date_local": "2026-05-17T07:10:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 9678.1,
+    "elevation_gain": 48.0,
+    "id": "18575958322",
+    "moving_time": 3652.0,
+    "name": "My AI dared me with \"Cache Me If You Can\"",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T18:36:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 2189.8,
+    "elevation_gain": 12.2,
+    "id": "18576041625",
+    "moving_time": 1160.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T19:41:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

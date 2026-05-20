@@ -34415,6 +34415,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18543868185",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 18,
+      "name": "My AI dared me with \"Cache Me If You Can\"",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18575958322",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18576041625",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -59843,6 +59861,16 @@
           "distance": 23356.600000000002,
           "elevation_gain": 64.0,
           "moving_time": 8286.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18575958322",
+            "18576041625"
+          ],
+          "count": 2,
+          "distance": 11867.900000000001,
+          "elevation_gain": 60.2,
+          "moving_time": 4812.0
         }
       },
       "Swim": {
@@ -60073,7 +60101,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:38:32.884306+00:00",
+  "generated_at": "2026-05-20T17:54:29.396390+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
