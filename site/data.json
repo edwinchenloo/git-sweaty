@@ -34433,6 +34433,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18576041625",
       "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 17,
+      "name": "Space-Themed FastTrack Session",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18589588115",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -59871,6 +59880,15 @@
           "distance": 11867.900000000001,
           "elevation_gain": 60.2,
           "moving_time": 4812.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18589588115"
+          ],
+          "count": 1,
+          "distance": 15141.5,
+          "elevation_gain": 0.0,
+          "moving_time": 5111.0
         }
       },
       "Swim": {
@@ -60101,7 +60119,7 @@
       }
     }
   },
-  "generated_at": "2026-05-20T17:54:29.396390+00:00",
+  "generated_at": "2026-05-21T17:31:16.559829+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
