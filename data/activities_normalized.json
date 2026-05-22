@@ -49749,5 +49749,18 @@
     "start_date_local": "2026-05-20T17:59:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18603475349",
+    "moving_time": 4675.0,
+    "name": "My toaster became sentient. Now it just burns me with sarcasm.",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T20:56:00Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
