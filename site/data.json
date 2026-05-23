@@ -34451,6 +34451,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18603475349",
       "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 18,
+      "name": "How does an AI say goodbye? \"Ctrl-AI-Delete.\"",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18614674844",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 19,
+      "name": "Holosport AR Fitness Tracker from the Future",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18614684825",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 7,
+      "name": "Pre Cornerstone Lakes parkrun Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18621150238",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -60050,6 +60077,16 @@
           "distance": 5028.6,
           "elevation_gain": 0.0,
           "moving_time": 7806.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18614674844",
+            "18614684825"
+          ],
+          "count": 2,
+          "distance": 5028.6,
+          "elevation_gain": 0.0,
+          "moving_time": 7867.0
         }
       },
       "Walk": {
@@ -60133,11 +60170,20 @@
           "distance": 4988.7,
           "elevation_gain": 7.0,
           "moving_time": 3138.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18621150238"
+          ],
+          "count": 1,
+          "distance": 2797.3,
+          "elevation_gain": 7.0,
+          "moving_time": 2279.0
         }
       }
     }
   },
-  "generated_at": "2026-05-22T17:09:28.557592+00:00",
+  "generated_at": "2026-05-23T16:02:15.660228+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",

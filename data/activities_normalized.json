@@ -49762,5 +49762,44 @@
     "start_date_local": "2026-05-21T20:56:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 2514.6,
+    "elevation_gain": 0.0,
+    "id": "18614674844",
+    "moving_time": 3919.0,
+    "name": "How does an AI say goodbye? \"Ctrl-AI-Delete.\"",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-22T18:18:17Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 2514.0,
+    "elevation_gain": 0.0,
+    "id": "18614684825",
+    "moving_time": 3948.0,
+    "name": "Holosport AR Fitness Tracker from the Future",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-22T19:29:39Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 2797.3,
+    "elevation_gain": 7.0,
+    "id": "18621150238",
+    "moving_time": 2279.0,
+    "name": "Pre Cornerstone Lakes parkrun Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-23T07:05:56Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
