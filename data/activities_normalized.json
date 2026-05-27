@@ -49814,5 +49814,18 @@
     "start_date_local": "2026-05-25T10:21:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 11265.4,
+    "elevation_gain": 0.0,
+    "id": "18669837526",
+    "moving_time": 4066.0,
+    "name": "Don't worry, be paws-itive!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-26T21:04:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
