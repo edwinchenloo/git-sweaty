@@ -34496,6 +34496,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18669837526",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 17,
+      "name": "FastTrack Workout",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18682977637",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -59970,6 +59979,15 @@
           "distance": 11265.4,
           "elevation_gain": 0.0,
           "moving_time": 4066.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18682977637"
+          ],
+          "count": 1,
+          "distance": 14643.9,
+          "elevation_gain": 0.0,
+          "moving_time": 6465.0
         }
       },
       "Swim": {
@@ -60219,7 +60237,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T17:57:35.257553+00:00",
+  "generated_at": "2026-05-28T18:12:50.142155+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
