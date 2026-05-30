@@ -49853,5 +49853,31 @@
     "start_date_local": "2026-05-28T21:32:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 3291.8,
+    "elevation_gain": 0.0,
+    "id": "18708596316",
+    "moving_time": 4989.0,
+    "name": "I shih tzu not, it's pool time",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-29T18:06:53Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 3291.0,
+    "elevation_gain": 0.0,
+    "id": "18708630871",
+    "moving_time": 4998.0,
+    "name": "Holosport AR Fitness Tracker from the Future",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-29T19:30:20Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
