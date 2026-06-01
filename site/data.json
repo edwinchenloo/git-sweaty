@@ -34541,6 +34541,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18720050248",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 10,
+      "name": "Dogs and cellphones have collar id",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18733322660",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -60033,6 +60042,15 @@
           "distance": 14643.9,
           "elevation_gain": 0.0,
           "moving_time": 6465.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18733322660"
+          ],
+          "count": 1,
+          "distance": 21111.3,
+          "elevation_gain": 122.0,
+          "moving_time": 7575.0
         }
       },
       "Swim": {
@@ -60301,7 +60319,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T16:09:22.200656+00:00",
+  "generated_at": "2026-06-01T19:55:28.198806+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
