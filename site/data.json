@@ -34550,6 +34550,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18733322660",
       "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 18,
+      "name": "XtraMiles Group Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18749441530",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -60051,6 +60060,15 @@
           "distance": 21111.3,
           "elevation_gain": 122.0,
           "moving_time": 7575.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18749441530"
+          ],
+          "count": 1,
+          "distance": 14716.7,
+          "elevation_gain": 62.0,
+          "moving_time": 4714.0
         }
       },
       "Swim": {
@@ -60319,7 +60337,7 @@
       }
     }
   },
-  "generated_at": "2026-06-01T19:55:28.198806+00:00",
+  "generated_at": "2026-06-02T18:39:15.279557+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",

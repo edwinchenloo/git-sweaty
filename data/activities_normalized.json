@@ -49905,5 +49905,18 @@
     "start_date_local": "2026-05-31T10:13:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 14716.7,
+    "elevation_gain": 62.0,
+    "id": "18749441530",
+    "moving_time": 4714.0,
+    "name": "XtraMiles Group Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-01T18:24:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
