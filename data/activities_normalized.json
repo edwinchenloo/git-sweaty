@@ -49918,5 +49918,44 @@
     "start_date_local": "2026-06-01T18:24:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 985.6,
+    "elevation_gain": 0.0,
+    "id": "18776564505",
+    "moving_time": 292.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-03T17:21:47Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 12211.0,
+    "elevation_gain": 0.0,
+    "id": "18777864227",
+    "moving_time": 3866.0,
+    "name": "FastTrack Q Workout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-03T18:02:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18791896765",
+    "moving_time": 3924.0,
+    "name": "If your dog is fat, you aren\u2019t getting enough exercise.",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T20:51:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
