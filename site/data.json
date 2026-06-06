@@ -34586,6 +34586,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18791896765",
       "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 18,
+      "name": "A dog giving birth on the side of the road. It got a ticket for littering.",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18803232816",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 19,
+      "name": "[Pool Swim]Holosport AR Fitness Tracker from the Future",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18803246027",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18809153139",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 7,
+      "name": "The One Morning After",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18810080682",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -60115,6 +60151,16 @@
           "distance": 13196.6,
           "elevation_gain": 0.0,
           "moving_time": 4158.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18809153139",
+            "18810080682"
+          ],
+          "count": 2,
+          "distance": 14891.0,
+          "elevation_gain": 53.0,
+          "moving_time": 4971.0
         }
       },
       "Swim": {
@@ -60278,6 +60324,16 @@
           "distance": 6582.8,
           "elevation_gain": 0.0,
           "moving_time": 9987.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18803232816",
+            "18803246027"
+          ],
+          "count": 2,
+          "distance": 4572.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7450.0
         }
       },
       "Walk": {
@@ -60383,7 +60439,7 @@
       }
     }
   },
-  "generated_at": "2026-06-05T17:19:16.129790+00:00",
+  "generated_at": "2026-06-06T16:06:09.713677+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
