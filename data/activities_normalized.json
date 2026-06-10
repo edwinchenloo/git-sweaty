@@ -50035,5 +50035,18 @@
     "start_date_local": "2026-06-08T18:21:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 10037.2,
+    "elevation_gain": 0.0,
+    "id": "18858541793",
+    "moving_time": 4945.0,
+    "name": "DickPond's Carol Stream Track Workout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-09T18:06:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -34640,6 +34640,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18844250279",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 18,
+      "name": "DickPond's Carol Stream Track Workout",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18858541793",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -60188,6 +60197,15 @@
           "distance": 10651.5,
           "elevation_gain": 44.0,
           "moving_time": 3650.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18858541793"
+          ],
+          "count": 1,
+          "distance": 10037.2,
+          "elevation_gain": 0.0,
+          "moving_time": 4945.0
         }
       },
       "Swim": {
@@ -60475,7 +60493,7 @@
       }
     }
   },
-  "generated_at": "2026-06-09T17:24:50.035284+00:00",
+  "generated_at": "2026-06-10T17:57:44.523977+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
