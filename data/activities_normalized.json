@@ -50048,5 +50048,18 @@
     "start_date_local": "2026-06-09T18:06:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 14497.9,
+    "elevation_gain": 57.0,
+    "id": "18872735372",
+    "moving_time": 5800.0,
+    "name": "Why did the dog cross the road? To get to the barking lot!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T19:15:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -34649,6 +34649,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18858541793",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 19,
+      "name": "Why did the dog cross the road? To get to the barking lot!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18872735372",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -60206,6 +60215,15 @@
           "distance": 10037.2,
           "elevation_gain": 0.0,
           "moving_time": 4945.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18872735372"
+          ],
+          "count": 1,
+          "distance": 14497.9,
+          "elevation_gain": 57.0,
+          "moving_time": 5800.0
         }
       },
       "Swim": {
@@ -60493,7 +60511,7 @@
       }
     }
   },
-  "generated_at": "2026-06-10T17:57:44.523977+00:00",
+  "generated_at": "2026-06-11T18:13:55.756686+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
