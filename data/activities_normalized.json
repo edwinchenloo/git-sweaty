@@ -50074,5 +50074,31 @@
     "start_date_local": "2026-06-11T20:31:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 2834.6,
+    "elevation_gain": 0.0,
+    "id": "18896793237",
+    "moving_time": 4367.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-12T18:17:32Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 2835.0,
+    "elevation_gain": 0.0,
+    "id": "18896798122",
+    "moving_time": 4370.0,
+    "name": "[Pool Swim]Holosport AR Fitness Tracker from the Future",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-12T19:30:49Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
