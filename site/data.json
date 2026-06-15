@@ -34694,6 +34694,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18906127827",
       "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 13,
+      "name": "America 250",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18923351727",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -60571,11 +60580,20 @@
           "distance": 3635.9,
           "elevation_gain": 32.0,
           "moving_time": 3898.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18923351727"
+          ],
+          "count": 1,
+          "distance": 6455.0,
+          "elevation_gain": 33.0,
+          "moving_time": 6215.0
         }
       }
     }
   },
-  "generated_at": "2026-06-14T16:22:12.987534+00:00",
+  "generated_at": "2026-06-15T19:03:52.469787+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",

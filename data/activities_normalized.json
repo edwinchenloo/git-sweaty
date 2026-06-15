@@ -50113,5 +50113,18 @@
     "start_date_local": "2026-06-13T06:46:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 6455.0,
+    "elevation_gain": 33.0,
+    "id": "18923351727",
+    "moving_time": 6215.0,
+    "name": "America 250",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-14T13:51:36Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
