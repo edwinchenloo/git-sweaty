@@ -34721,6 +34721,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18951373654",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 17,
+      "name": "Open pool swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18966557600",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 18,
+      "name": "My mom told me to never date a soccer player because there is only a 1-in-11 chance they are a keeper.",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18966557642",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18974336872",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -60323,6 +60350,15 @@
           "distance": 10007.0,
           "elevation_gain": 1.0,
           "moving_time": 3503.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18974336872"
+          ],
+          "count": 1,
+          "distance": 12910.6,
+          "elevation_gain": 195.0,
+          "moving_time": 6672.0
         }
       },
       "Swim": {
@@ -60506,6 +60542,15 @@
           "distance": 5669.6,
           "elevation_gain": 0.0,
           "moving_time": 8737.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18966557600"
+          ],
+          "count": 1,
+          "distance": 1500.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1512.0
         }
       },
       "Walk": {
@@ -60625,11 +60670,20 @@
           "distance": 6455.0,
           "elevation_gain": 33.0,
           "moving_time": 6215.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18966557642"
+          ],
+          "count": 1,
+          "distance": 2546.7,
+          "elevation_gain": 22.0,
+          "moving_time": 1756.0
         }
       }
     }
   },
-  "generated_at": "2026-06-17T17:49:25.545785+00:00",
+  "generated_at": "2026-06-18T17:58:59.063362+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
