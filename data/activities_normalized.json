@@ -50185,10 +50185,23 @@
     "elevation_gain": 195.0,
     "id": "18974336872",
     "moving_time": 6672.0,
-    "name": "Morning Run",
+    "name": "Metropolitan National Park Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-06-18T08:24:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 4828.0,
+    "elevation_gain": 0.0,
+    "id": "18986676502",
+    "moving_time": 1807.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-19T11:25:32Z",
     "type": "Run",
     "year": 2026
   }

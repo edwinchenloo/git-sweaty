@@ -34743,10 +34743,19 @@
     {
       "date": "2026-06-18",
       "hour": 8,
-      "name": "Morning Run",
+      "name": "Metropolitan National Park Run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18974336872",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18986676502",
       "year": 2026
     }
   ],
@@ -60359,6 +60368,15 @@
           "distance": 12910.6,
           "elevation_gain": 195.0,
           "moving_time": 6672.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18986676502"
+          ],
+          "count": 1,
+          "distance": 4828.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1807.0
         }
       },
       "Swim": {
@@ -60683,7 +60701,7 @@
       }
     }
   },
-  "generated_at": "2026-06-18T17:58:59.063362+00:00",
+  "generated_at": "2026-06-19T17:19:54.956111+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
