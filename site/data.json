@@ -34752,10 +34752,37 @@
     {
       "date": "2026-06-19",
       "hour": 11,
-      "name": "Lunch Run",
+      "name": "Panama Lunch Run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18986676502",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 16,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18991378022",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18991378084",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 9,
+      "name": "Morning Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18998610496",
       "year": 2026
     }
   ],
@@ -60569,6 +60596,15 @@
           "distance": 1500.0,
           "elevation_gain": 0.0,
           "moving_time": 1512.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "18998610496"
+          ],
+          "count": 1,
+          "distance": 855.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1396.0
         }
       },
       "Walk": {
@@ -60697,11 +60733,21 @@
           "distance": 2546.7,
           "elevation_gain": 22.0,
           "moving_time": 1756.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18991378022",
+            "18991378084"
+          ],
+          "count": 2,
+          "distance": 4257.8,
+          "elevation_gain": 51.0,
+          "moving_time": 3342.0
         }
       }
     }
   },
-  "generated_at": "2026-06-19T17:19:54.956111+00:00",
+  "generated_at": "2026-06-20T16:18:48.594792+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
