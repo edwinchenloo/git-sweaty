@@ -50243,5 +50243,44 @@
     "start_date_local": "2026-06-20T09:38:38Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 3114.1,
+    "elevation_gain": 25.0,
+    "id": "19000578738",
+    "moving_time": 2190.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-20T11:28:13Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 2673.0,
+    "elevation_gain": 14.0,
+    "id": "19008387393",
+    "moving_time": 1170.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T05:07:20Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 21343.1,
+    "elevation_gain": 168.0,
+    "id": "19010624622",
+    "moving_time": 7419.0,
+    "name": "Big Four Series HM",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T06:02:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
