@@ -34820,6 +34820,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19028361637",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19102052787",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -60807,11 +60816,20 @@
           "distance": 12688.0,
           "elevation_gain": 78.0,
           "moving_time": 11600.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19102052787"
+          ],
+          "count": 1,
+          "distance": 683.5,
+          "elevation_gain": 4.0,
+          "moving_time": 801.0
         }
       }
     }
   },
-  "generated_at": "2026-06-28T16:11:03.360792+00:00",
+  "generated_at": "2026-06-29T17:36:57.077117+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5351376",
   "repo": "edwinchenloo/git-sweaty",
